@@ -1,5 +1,5 @@
 {
-  "name": "@orbis-cascade/primo-explore-external-search",
+  "name": "primo-explore-external-search",
  "dependencies": {
   "angular": ">=1.7.9"
 },
