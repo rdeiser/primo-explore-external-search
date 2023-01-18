@@ -1,3 +1,4 @@
+//cows are cool
 angular
 .module('externalSearch', []).value('searchTargets', []).component('prmFacetAfterAppStoreGenerated', {
   bindings: { parentCtrl: '<' },

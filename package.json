@@ -1,8 +1,8 @@
 {
   "name": "primo-explore-external-search",
- "dependencies": {
-  "angular": ">=1.7.9"
-},
+  "dependencies": {
+    "angular": ">=1.7.9"
+  },
   "version": "1.1.5",
   "description": "a primo-explore module that adds facet options to transfer a search to external targets.",
   "main": "index.js",
@@ -24,6 +24,8 @@
     "url": "https://github.com/alliance-pcsg/primo-explore-external-search/issues"
   },
   "homepage": "https://github.com/alliance-pcsg/primo-explore-external-search#readme",
-  "scripts": {
+  "scripts": {},
+  "devDependencies": {
+    "eslint": "^8.29.0"
   }
 }
